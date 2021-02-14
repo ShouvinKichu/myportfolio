@@ -1,0 +1,10 @@
+<svg class=hero-design width="560" height="550" viewBox="0 0 560 550">
+  <g id="circles" transform="translate(-970 -303)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="70" cy="70" r="70" transform="translate(1250 303)" fill="#007af3"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="70" cy="70" r="70" transform="translate(1110 433)" fill="#00ffcb"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="70" cy="70" r="70" transform="translate(1250 573)" fill="#007af3"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="70" cy="70" r="70" transform="translate(1390 433)" fill="#007af3" opacity="0.5"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="70" cy="70" r="70" transform="translate(970 573)" fill="#007af3" opacity="0.5"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="70" cy="70" r="70" transform="translate(1110 713)" fill="#00ffcb"/>
+  </g>
+</svg>
